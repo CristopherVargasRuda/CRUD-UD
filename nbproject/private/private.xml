@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/insert/PInsertHandler.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/services/ResourcesService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/MainViewTemplate.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/show/PShowTemplate.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/services/AdvancedGraphicsService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/modify/PModifyTemplate.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/services/GraphicObjService.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/MainViewHandler.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/show/PShowHandler.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/util/CaException.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/delete/PDeleteHandler.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/modify/PModifyHandler.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/data/PersonBD.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/delete/PDeleteTemplate.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/util/ServiceLocator.java</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/CRUD-UD/src/app/views/mainViewComponents/insert/PInsertTemplate.java</file>
+        </group>
+    </open-files>
+</project-private>
